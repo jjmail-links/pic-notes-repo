@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, PicNotesActivity!</string>
+    <string name="app_name">Pic-notes</string>
+    <string name="button1">Open Browser</string>
+    <string name="button2">Get Picture</string>
+
+</resources>
